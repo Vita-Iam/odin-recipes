@@ -1,0 +1,1 @@
+Current project is made to create a collection of recipes of some most popular Ukrainian dishes. It demostrates the knowledge of HTML and CSS computer languages.
